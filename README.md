@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Idée Générale du Projet
+##  Idée Générale du Projet
 Ce projet constitue le livrable final du module **Deep Learning**. L'objectif est de concevoir, implémenter et analyser de manière critique trois grandes architectures de réseaux de neurones adaptées à la structure spécifique de trois types de données réelles :
 
 1. **Partie I (Données Tabulaires) :** Classification binaire à l'aide d'un Perceptron Multicouche (MLP) sur le dataset *Breast Cancer*.
@@ -15,7 +15,7 @@ Ce projet constitue le livrable final du module **Deep Learning**. L'objectif es
 
 ---
 
-## 🗂️ Structure du Repository
+##  Structure du Repository
 
 L'ensemble du travail (code source et analyse théorique) est regroupé directement à la racine du dépôt pour un accès rapide :
 
@@ -25,7 +25,7 @@ L'ensemble du travail (code source et analyse théorique) est regroupé directem
 
 ---
 
-## 🚀 Instructions d'Exécution (Comment exécuter le projet)
+##  Instructions d'Exécution (Comment exécuter le projet)
 
 Pour exécuter le code de ce projet dans les meilleures conditions, suivez ces étapes :
 
